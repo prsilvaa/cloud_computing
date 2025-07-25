@@ -23,7 +23,7 @@
 </ul>
 
 <h2>Outcome</h2>
-<p>Successful access to the S3 bucket from the EC2 Linux instance was achieved by verifying permissions using AWS CLI commands. The required text file was accessed and successfully copied from the S3 bucket to the EC2 instance using AWS CLI and Linux commands, confirming read and write permissions were correctly configured through the attached IAM role.</p>
+<p>Successful access to the S3 bucket from the EC2 Linux instance was achieved after verifying that the correct permissions were in place using AWS CLI commands. The necessary IAM role was properly attached to the EC2 instance, granting it the required read and write access to the specified S3 bucket. Using a combination of AWS CLI and standard Linux commands, the required text file was successfully accessed and copied from the S3 bucket to the local EC2 instance. This confirmed that the IAM policy was correctly configured and that the instance had the appropriate permissions to interact with the S3 bucket as intended.</p>
 
 <div align="center">
     <h3>EC2 Instance Setup</h3>
