@@ -7,7 +7,7 @@
 <ul>
     <li>AWS Academy Learner Lab – Foundation Services</li>
     <li>AWS IAM</li>
-    <li>Amazon EC2 (Ubuntu 20.04 LTS)</li>
+    <li>Amazon EC2</li>
     <li>Amazon S3</li>
     <li>AWS CLI</li>
     <li>Linux Commands</li>
